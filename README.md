@@ -1,0 +1,2 @@
+# edusync-api
+Api EduSync
